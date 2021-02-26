@@ -3,7 +3,7 @@
 
 ### Overview:
 
-This project is datasets from the UK and England about waste generated, imported, exported, and treatments to get a better understanding on how much trash is being produced. Our goal is educate ourselves and others.
+This projects datasets are from the UK and England. It holds information about waste generated, imported, exported, and treatments used to get a better understanding on how much trash is being produced. Our goal is educate ourselves and others.
 
 ### Questions:
 
