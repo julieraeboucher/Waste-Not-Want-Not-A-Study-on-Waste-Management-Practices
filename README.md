@@ -1,5 +1,4 @@
-# Project 1: Waste Managament
-# Taking Care of Rubbish
+# Waste-Not-Want-Not-A-Study-on-Waste-Management-Practices
 
 ### Overview:
 
